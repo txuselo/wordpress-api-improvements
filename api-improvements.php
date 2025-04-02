@@ -6,7 +6,7 @@
  * Version: 1.0
  * Author: txuselo
  * Author URI: https://github.com/txuselo
- * License: GPL2
+ * License: Apache License 2.0
  */
 
 // Register Rank Math meta fields for posts.
